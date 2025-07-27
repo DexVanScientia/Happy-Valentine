@@ -5,5 +5,3 @@ Project Valentine is a simple project created to celebrate Valentine's Day. It a
 Send love messages
 
 Valentine-themed design
-
-Romantic background music (optional)
