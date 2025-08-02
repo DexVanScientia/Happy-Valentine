@@ -7,3 +7,6 @@ Project Valentine is a simple project created to celebrate Valentine's Day. It a
 
 - Send love messages
 - Valentine-themed design
+
+📄 Link Pages
+- https://dexvanscientia.github.io/Happy-Valentine/
